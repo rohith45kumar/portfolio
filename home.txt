@@ -1,0 +1,11 @@
+    <section class="home" id="home">
+
+        <h3>HI THERE !</h3>
+        <h1>I'M <span>Rohith Kumar</span></h1>
+        <p>To build a career in a growing organization, where I can get the opportunities to prove my abilities by
+            accepting challenges fulfilling the organization goals and climb the career ladder through continuous
+            learning and commitment .
+        </p>
+        <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
+
+    </section>

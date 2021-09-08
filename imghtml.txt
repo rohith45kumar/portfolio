@@ -1,0 +1,38 @@
+ <section class="portfolio" id="portfolio">
+
+        <h1 class="heading"> my <span>portfolio</span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2659/posts/34698/image/6-graphicriver.jpg"
+                    alt="">
+            </div>
+
+            <div class="box">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WHPGIBFcPvnEuA9Uwi1rn4kEtRfdxdqczHn81LGVggjU6cQ0m6H80eMSpwsk0ZuXqK0&usqp=CAU"
+                    alt="">
+            </div>
+
+            <div class="box">
+                <img src="https://i.pinimg.com/736x/be/68/5a/be685a4259ee7b581a904f6bd40442f4.jpg" alt="">
+            </div>
+
+            <div class="box">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO1mRKlwurXZkYWHacUZztxlIHf_7ufrfEnCrvhLn39YAzw5ejRW7liXKEuXziCk8APQ&usqp=CAU"
+                    alt="">
+            </div>
+
+            <div class="box">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGanbgUubPQkk4ZizB2fA7fp4CIWA1HwhtCVayZglj_ryMgnDPFW7fY6HyeQxcINhEqRw&usqp=CAU"
+                    alt="">
+            </div>
+
+            <div class="box">
+                <img src="https://4.bp.blogspot.com/-nBd-fEF_wQc/XLu-4HiC56I/AAAAAAAAB34/_uIvz0aKrTsZlz6KtOnSHVXhrmBP18ANgCLcBGAs/s400/cv%2Bnew.jpg"
+                    alt="">
+            </div>
+
+        </div>
+
+    </section>

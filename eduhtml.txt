@@ -1,0 +1,61 @@
+  <section class="education" id="education">
+
+        <h1 class="heading"> my <span>education</span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2016</span>
+                <h3>SSLC</h3>
+                <p>In 2016 I complemented my secondary education with 94.56% in Sri Aravinda English Medium High School
+                    ,chelur.and then I went to hoskote for my higher studies.</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2017</span>
+                <h3>PUC -I</h3>
+                <p>
+                    i took PCMB course in PUC and in this year i completed PUC 1 in Sri maruthi PU college with a 89%
+                    ,and started working hard for my PUC-II,and for entrance exams.
+                </p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2018</span>
+                <h3>PUC-II</h3>
+                <p>this is very special year for me i made good friends and i secured 97% in PUC-II and cracked JEE
+                    mains and also i got a 4951 rank in k-cet and got a free seat in UVCE </p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2019</span>
+                <h3>BTech-I</h3>
+                <p>in 2019 i joined University vivesvaraya college of engineering and complemented first year of my
+                    degree with a CPGA of 7.57</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2020</span>
+                <h3>BTech-II</h3>
+                <p>I completed second year of my degree in this year with a CGPA of 7.97,and i worked hard for improving
+                    my CPGA in upcoming semesters </p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2021</span>
+                <h3>front end development</h3>
+                <p>
+                    and i complemented my degree third year in this year with a CGPA of 8.94,that makes me happy by
+                    looking at the rise in th CPGA
+                </p>
+            </div>
+
+        </div>
+
+    </section>
